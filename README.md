@@ -5,15 +5,12 @@
     <img 
     src="https://i.ibb.co/VW7Pw9bg/banner-png.png" 
     alt="Ahmed El-Messery React Dev Banner" 
-    width="250" 
-    height="250"
-    style="border-radius: 50%; object-fit: cover;" 
+    width="500" 
+    height="500"
+    style="border-radius: 100%; object-fit: cover;" 
   />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Coffee+into+Code;Building+React+Apps+that+Wow!;Open+Source+Contributor+❤️;&center=true&width=440&height=45&pause=1000&color=61DAFB&vCenter=true&size=22" />
-</p>
 
 ---
 
