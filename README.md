@@ -3,7 +3,7 @@
 
 <p align="center">
     <img 
-    src="[https://i.imgur.com/lmeFC6n.png](https://i.ibb.co/VW7Pw9bg/banner-png.png)" 
+    src="https://i.ibb.co/VW7Pw9bg/banner-png.png" 
     alt="Ahmed El-Messery React Dev Banner" 
     width="250" 
     height="250"
