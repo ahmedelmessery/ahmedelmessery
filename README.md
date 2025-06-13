@@ -2,7 +2,13 @@
 <h3 align="center">React Developer ⚛️✨</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/VW7Pw9bg/banner-png.png" alt="Ahmed El-Messery React Dev Banner" width="100%" />
+    <img 
+    src="[https://i.imgur.com/lmeFC6n.png](https://i.ibb.co/VW7Pw9bg/banner-png.png)" 
+    alt="Ahmed El-Messery React Dev Banner" 
+    width="250" 
+    height="250"
+    style="border-radius: 50%; object-fit: cover;" 
+  />
 </p>
 
 <p align="center">
