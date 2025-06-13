@@ -2,7 +2,7 @@
 <h3 align="center">React Developer | UI Magician | Code Whisperer ⚛️✨</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/lmeFC6n.png" alt="Ahmed El-Messery React Dev Banner" width="100%" />
+  <img src="https://i.imgur.com/lmeFC6n.png](https://i.ibb.co/VW7Pw9bg/banner-png.png" alt="Ahmed El-Messery React Dev Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -39,10 +39,9 @@
 
 ### 🧩 Featured Projects
 
+- 📱 [Elaf E-Commerce Website]([https://github.com/ahmedelmessery/Dashboard](https://github.com/GiantWhale22/elaf-frontend))
 - 🎯 [Awesome Dashboard with React & Tailwind](https://github.com/ahmedelmessery/Dashboard)
 - 💼 [Modern Landing Page](https://github.com/ahmedelmessery/ModernLandingPage)
-- 📱 [Animation Playground](https://github.com/ahmedelmessery/animation)
-
 ---
 
 ### 🌍 Let’s Connect
