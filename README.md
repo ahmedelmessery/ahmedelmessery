@@ -5,8 +5,8 @@
     <img 
     src="https://i.ibb.co/VW7Pw9bg/banner-png.png" 
     alt="Ahmed El-Messery React Dev Banner" 
-    width="500" 
-    height="500"
+    width="400" 
+    height="400"
     style="border-radius: 100%; object-fit: cover;" 
   />
 </p>
@@ -35,7 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedelmessery&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelmessery&theme=tokyonight" width="48%" />
 </p>
 
 ---
