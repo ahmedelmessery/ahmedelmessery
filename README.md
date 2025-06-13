@@ -2,7 +2,7 @@
 <h3 align="center">React Developer | UI Magician | Code Whisperer ⚛️✨</h3>
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Ahmed El-Messery React Dev Banner" width="100%" />
+  <img src="banner.png" alt="Ahmed El-Messery React Dev Banner" width="100%" />
 </p>
 
 <p align="center">
