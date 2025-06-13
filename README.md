@@ -41,7 +41,7 @@
 
 ### 🧩 Featured Projects
 
-- 📱 [Elaf E-Commerce Website]([https://github.com/ahmedelmessery/Dashboard](https://github.com/GiantWhale22/elaf-frontend))
+- 📱 [Elaf E-Commerce Website](https://github.com/GiantWhale22/elaf-frontend)
 - 🎯 [Awesome Dashboard with React & Tailwind](https://github.com/ahmedelmessery/Dashboard)
 - 💼 [Modern Landing Page](https://github.com/ahmedelmessery/ModernLandingPage)
 ---
@@ -57,8 +57,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=120&section=footer"/>
-</p>
