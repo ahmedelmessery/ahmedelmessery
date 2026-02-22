@@ -1,5 +1,5 @@
-<h1 align="center">🔥 Ahmed El-Messery 🔥</h1>
-<h3 align="center">React Developer ⚛️✨</h3>
+<h1 align="center">Ahmed El-Messery</h1>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
     <img 
@@ -20,14 +20,6 @@
 > 🚀 Passionate about building beautiful and scalable frontends.  
 > ⚡ Loves working with TypeScript, Tailwind, and cutting-edge tools.  
 > 😎 Fun Fact: My React components never go out of scope.
-
----
-
-### 🚀 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,next,vite,redux,figma,html,css,nodejs" />
-</p>
 
 ---
 
