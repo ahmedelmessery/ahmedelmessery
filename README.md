@@ -16,7 +16,7 @@
 
 ### 💡 About Me
 
-> 💻 Frontend developer with deep love for **React**, UI/UX, and smooth animations.  
+> 💻 Frontend developer with deep love for **React**, **Next JS** UI/UX, and smooth animations.  
 > 🚀 Passionate about building beautiful and scalable frontends.  
 > ⚡ Loves working with TypeScript, Tailwind, and cutting-edge tools.  
 > 😎 Fun Fact: My React components never go out of scope.
